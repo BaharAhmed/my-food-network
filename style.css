@@ -7,7 +7,9 @@ h1{
 }
 h2{
     font-size: 35px;
+    
 }
+
 #tomato-color{
     color: tomato;
 }
@@ -47,3 +49,7 @@ h2{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-size: cover;
 }
+.center{
+    text-align: center;
+}
+
