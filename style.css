@@ -1,10 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
-     
-    
+    margin: 0%;       
 }
 h1{
-    font-size: 50px;
+    font-size: 50px;    
+}
+h2{
+    font-size: 35px;
 }
 #tomato-color{
     color: tomato;
@@ -13,30 +15,35 @@ h1{
     color:yellowgreen;
 }
 .half-width{
-    
-     width: 50%;
 
+    width: 50%;
+    margin: 2%;
+    padding: 30px;
+}
+.half-width img{
+    width: 80%;
 }
 .flexible-containt{
     display: flex;
-    width: 80%;
-    margin: 5%;
-    padding: 20px;
-    
+    margin-bottom: 150px;    
 }
 .font-color{
     color: rgb(88, 88, 88);
 }
-button{
-    
-   background-image: linear-gradient(to right, orange, tomato);
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange, tomato);
     color: white;
-    text-align: center;
     font-size: 16px ;
     font-weight: 600;
-    padding: 15px 32px;
-    border: tomato;
-    border-radius: 15px;
+    padding: 15px;
+    border:none;
+    border-radius: 20px;
     margin: none;
+    width: 150px;
    
+}
+#background-img{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: cover;
 }
