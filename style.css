@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+     
+    
+}
+h1{
+    font-size: 50px;
+}
+#tomato-color{
+    color: tomato;
+}
+#green-color{
+    color:yellowgreen;
+}
+.half-width{
+    
+     width: 50%;
+
+}
+.flexible-containt{
+    display: flex;
+    width: 80%;
+    margin: 5%;
+    padding: 20px;
+    
+}
+.font-color{
+    color: rgb(88, 88, 88);
+}
+button{
+    
+   background-image: linear-gradient(to right, orange, tomato);
+    color: white;
+    text-align: center;
+    font-size: 16px ;
+    font-weight: 600;
+    padding: 15px 32px;
+    border: tomato;
+    border-radius: 15px;
+    margin: none;
+   
+}
