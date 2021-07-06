@@ -52,4 +52,18 @@ h2{
 .center{
     text-align: center;
 }
+.recipie-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:10px ;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.recipie-item img{
+    width: 100%;
+}
+
+   
 
