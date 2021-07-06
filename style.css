@@ -10,7 +10,7 @@ h2{
     
 }
 
-#tomato-color{
+.tomato-color{
     color: tomato;
 }
 #green-color{
@@ -64,6 +64,22 @@ h2{
 .recipie-item img{
     width: 100%;
 }
-
+.social-media{
+    margin-left:15%;
+    border-radius: 20px;
+    
+}
+#shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin-left:5% ;
+    margin-right: 5%;
+    border-radius: 20px;
+}
+.footer{
+    color: white;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
    
 
